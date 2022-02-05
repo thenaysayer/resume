@@ -1,0 +1,15 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "resume.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Travis Toomey",
+  "license": "ISC",
+  "dependencies": {
+    "jsonresume-theme-kendall": "^0.2.0",
+    "resume-schema": "^1.0.0"
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Travis Toomey",
+    "label": "DevOps Engineer",
+    "image": "image.jpg",
+    "email": "travesty.toomey@gmail.com",
+    "phone": "1-707-238-5479",
+    "url": "http://toomey.cloud/resume.html",
+    "summary": "Experienced DevOps engineer with a strength in Powershell, Data Ops, Azure, System Administration, Business Intelligence & analytics, and web development.",
+    "location": {
+      "postalCode": "80125",
+      "city": "Littleton",
+      "countryCode": "US",
+      "region": "Colorado"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "travistoomey",
+        "url": "https://www.linkedin.com/in/travistoomey/"
+      },
+      {
+        "network": "GitHub",
+        "username": "thenaysayer",
+        "url": "https://github.com/thenaysayer"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Go West IT",
+      "location": "Denver, CO",
+      "description": "IT Managed Services",
+      "position": "DevOps Engineer",
+      "url": "http://gowestit.com",
+      "startDate": "2020-01-01",
+      "summary": "Develop & maintain custom tools, automation, and platforms used by internal staff and customers. Maintain azure cloud resources used for tools and platforms. Collect and maintain data from platforms for the purposes of business intelligence and analytics. Maintain all infrastructure and code in Azure DevOps and follow Agile best practices.",
+      "highlights": [
+        "Created custom recurring ticketing scheduler web application using our PSA's API integration, powershell, Azure Functions, and a Web application front end. "
+      ]
+    },
+    {
+      "name": "Go West IT",
+      "location": "Centennial, CO",
+      "description": "IT Managed Services",
+      "position": "Managed Services Engineer",
+      "url": "http://gowestit.com",
+      "startDate": "2017-02-01",
+      "endDate": "2020-01-01",
+      "summary": "Configured, Managed, Developed RMM platform, Managed & Developed platform integration with managed services, Created & maintained automation deployed through RMM platform. Development & Mangement of azure resources including Azure AD, Storage, Automation, Compute, Web & Function Apps, Database & analytics Management.  ",
+      "highlights": [
+        "Creating an automated Office 365 Health check using powershell. The automation could be deployed against all customers on a recurring basis to provide value-add services for the company."
+      ]
+    },
+        {
+      "name": "Team Logic IT",
+      "location": "Santa Rosa, Ca",
+      "description": "IT Managed Services",
+      "position": "IT Engineer 3",
+      "url": "http://teamlogicit.com",
+      "startDate": "2011-03-01",
+      "endDate": "2017-01-31",
+      "summary": "Tier 3 Support Engineer. Windows & Azure system administration, Onsite Support, Management & development of RMM platform. Creation of automation and reporting deployed through the RMM platform.",
+      "highlights": [
+        "Built automation and reporting that was shared through the entire TeamLogic IT franchise."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Microsoft",
+      "url": "https://docs.microsoft.com/en-us/learn/certifications/azure-developer/",
+      "area": "Azure Developer Associate",
+      "studyType": "Certification",
+      "score": "800",
+      "courses": [
+        "Developing Solutions for Microsoft Azure"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Azure",
+      "level": "Master",
+      "keywords": [
+        "Storage",
+        "AzureAD",
+        "Function Apps",
+        "Web Apps",
+        "Automation Accounts",
+        "Managed SQL",
+        "CosmosDB",
+        "KeyVault",
+        "Azure DevOps"
+      ]
+    },
+    {
+      "name": "Powershell",
+      "level": "Master",
+      "keywords": [
+        "APIs",
+        "Data Management",
+        "Azure Functions",
+        "Azure Administration",
+        "Windows Administration"
+      ]
+    },
+    {
+      "name": "Data Engineering",
+      "level": "Proficient",
+      "keywords": [
+        "Business Intelligence",
+        "SQL",
+        "NoSQL",
+        "PowerBI",
+        "Azure Data Factory",
+        "ETL,ELT",
+        "Data Warehousing"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Novice",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Express",
+        "API Development",
+        "React"
+      ]
+    }
+  ],
+  "meta": {
+    "theme": "kendall",
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
