@@ -9,6 +9,8 @@
   "author": "Travis Toomey",
   "license": "ISC",
   "dependencies": {
+    "jsonresume-theme-eloquent": "^4.1.0",
+    "jsonresume-theme-kards": "^0.5.6",
     "jsonresume-theme-kendall": "^0.2.0",
     "resume-schema": "^1.0.0"
   }
